@@ -1,1 +1,1 @@
-re-implementation of the ViT model with the help of torch.
+ implementation of the ViT model with the help of torch. 
